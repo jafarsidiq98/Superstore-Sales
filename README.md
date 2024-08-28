@@ -19,12 +19,15 @@ The data can be found in the Superstore.csv file, which I obtained from Kaggle. 
 ```math
 Total Discount = Sales * Discount
 ```
+
 ```math
 COGS = Sales - Total Discount - Profit
 ```
+
 ```math
 AOV = Sales / Total Order
 ```
+
 ```math
 Profit (%) = Profit / Sales
 ```
