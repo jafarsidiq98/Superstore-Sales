@@ -29,7 +29,7 @@ AOV = Sales / Total Order
 ```
 
 ```math
-Profit (%) = Profit / Sales
+Profit (\%) = Profit / Sales
 ```
 
 Here is the Kaggle source: https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales
