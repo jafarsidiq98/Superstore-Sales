@@ -1,7 +1,7 @@
 # **Superstore-Sales**
 
 Superstore sales data provides historical record of transactions in USA, consisting of comprehensive collection of order id, customer names, product names, sales, quantities, discounts, and profits. With this data, I have created a dashboard in order to assist users quickly access their sales summary and gain insights. Here is the look of the dashboard that I developed using Power BI
-<img src="https://github.com/jafarsidiq98/Superstore-Sales-Dashboard-Power-BI/blob/95362fdd0a113f6d9f114e493c04b475c71d23ae/Dashboard%20Superstore.jpg">
+<img src="https://github.com/jafarsidiq98/Superstore-Sales-Dashboard-Power-BI/blob/b76170041b109e8a28fbf65600bae3fdc2fd7306/Dashboard%20Superstore.jpg">
   
 In this dashboard, I included a scorecard to summarize the sales performance during the period. Started with Total Sales to indicate the income earned, AOV to reflect the average amount customers tend to spend, COGS to show direct costs that involved in production, and Total Discount to reflect amount of discount offered, which impacts to the profit. Additionally, Total Profit and Profit Margin highlight profitability of the operation. The goals of these chart is to provide users with immediate insights into our sales performance without needing to analyze detail of data. This also make it easier for users to respond quickly if asked by senior management or their supervisors about total sales
 
