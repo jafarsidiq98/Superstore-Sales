@@ -1,6 +1,6 @@
 # **Superstore-Sales**
 
-Superstore sales data provides historical record of transactions in USA, consisting of comprehensive collection of order id, customer names, product names, sales, quantities, discounts, and profits. With this data, I have created a dashboard in order to assist users quickly access their sales summary and gain insights. Here is the look of the dashboard that I developed using Power BI
+Superstore sales data provides historical record of transactions in USA, consisting of comprehensive collection of order id, customer names, product names, sales, quantities, discounts, and profits. With this data, I have created a simple dashboard in order to assist users quickly access their sales summary and gain insights. Here is the look of the dashboard that I developed using Power BI
 
 <img src="https://github.com/jafarsidiq98/Superstore-Sales-Dashboard-Power-BI/blob/b76170041b109e8a28fbf65600bae3fdc2fd7306/Dashboard%20Superstore.jpg">
   
