@@ -14,7 +14,15 @@ Additionally, Sales by states was created in order to maximize our potential and
 
 # Data Source
 
-The data can be found in the Superstore.csv file, which I obtained from Kaggle. Since the data description is not detailed, I have made several assumptions, such as interpreting the discount as a percentage rather than an amount, given that this column never exceeds one. Additionally, there is no information specifying whether the profit is net or gross, so I have assumed it to be gross profit. Furthermore, I have added new measures in Power BI, including COGS, Total Discount in dollars, AOV, and Profit Margin. Here is the formula:
+The data can be found in the Superstore.csv file, which I obtained from Kaggle. Since the data description is not detailed, I have made several assumptions, such as interpreting the discount as a percentage rather than an amount, given that this column never exceeds one. Additionally, there is no information specifying whether the profit is net or gross, so I have assumed it to be gross profit. Furthermore, I have added new measures in Power BI, including Total Discount in dollars, COGS, AOV, and Profit Margin. Here is the formula:
 
+```math
+Total Discount = Sales * Discount
+COGS = Sales - Total Discount - Profit
+AOV = Sales / Total Order
+Profit (%) = Profit / Sales
+```
+
+Here is the Kaggle source: https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales
 
 
